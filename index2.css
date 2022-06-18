@@ -5,4 +5,9 @@ button {
   border-radius: 10px;
   color: white;
   font-size: 20px;
+  border: none;
+}
+p {
+  font-size: 20px;
+  color: rgb(49, 49, 49);
 }
